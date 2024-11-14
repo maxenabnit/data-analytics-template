@@ -2,6 +2,9 @@
 
 ## Folders
 
+source data:
+https://www.kaggle.com/datasets
+
 ### raw
 
 Original, unmodified data after downloading, scraping, etc.
