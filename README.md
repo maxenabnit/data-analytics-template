@@ -1,7 +1,6 @@
 # README Template - Project Name
 
 ## Table of Contents
-
 [Description](#description)
 [Goal](#goal)
 [Installation Instructions](#installation-instructions)
