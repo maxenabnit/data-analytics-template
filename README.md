@@ -1,14 +1,14 @@
 # README Template - Project Name
 
 ## Table of Contents
-[Description](#description)
-[Goal](#goal)
-[Installation Instructions](#installation-instructions)
-[Data Sources](#data-sources)
-[What I Learned](#what-i-learned)
-[Contact Information](#contact-information)
-[To do list](#to-do-list)
-[Change log](#change-log)
+-[Description](#description)
+-[Goal](#goal)
+-[Installation Instructions](#installation-instructions)
+-[Data Sources](#data-sources)
+-[What I Learned](#what-i-learned)
+-[Contact Information](#contact-information)
+-[To do list](#to-do-list)
+-[Change log](#change-log)
 
 ## Description
 
