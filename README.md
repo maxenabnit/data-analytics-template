@@ -27,8 +27,8 @@ If applicable, provide detailed instructions to the user on how to install the p
 
 List data sources used in the project, such as original data used, provide links:
 
-- **Original dataset**: Kaggle ([Original Dataset] (https://www.kaggle.com/datasets))
-- **ChatGPT**: ([Home] (https://chatgpt.com/))
+- **Original dataset**: Kaggle ([Original Dataset](https://www.kaggle.com/datasets))
+- **ChatGPT**: ([Home](https://chatgpt.com/))
 
 ## What I Learned
 
